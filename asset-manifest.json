@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/orakkle-landingpage/static/css/main.29d74412.chunk.css",
+    "main.js": "/orakkle-landingpage/static/js/main.bd0f3d04.chunk.js",
+    "main.js.map": "/orakkle-landingpage/static/js/main.bd0f3d04.chunk.js.map",
+    "runtime-main.js": "/orakkle-landingpage/static/js/runtime-main.cf1a5708.js",
+    "runtime-main.js.map": "/orakkle-landingpage/static/js/runtime-main.cf1a5708.js.map",
+    "static/js/2.bd1c800f.chunk.js": "/orakkle-landingpage/static/js/2.bd1c800f.chunk.js",
+    "static/js/2.bd1c800f.chunk.js.map": "/orakkle-landingpage/static/js/2.bd1c800f.chunk.js.map",
+    "static/js/3.22e94fe1.chunk.js": "/orakkle-landingpage/static/js/3.22e94fe1.chunk.js",
+    "static/js/3.22e94fe1.chunk.js.map": "/orakkle-landingpage/static/js/3.22e94fe1.chunk.js.map",
+    "index.html": "/orakkle-landingpage/index.html",
+    "static/css/main.29d74412.chunk.css.map": "/orakkle-landingpage/static/css/main.29d74412.chunk.css.map",
+    "static/js/2.bd1c800f.chunk.js.LICENSE.txt": "/orakkle-landingpage/static/js/2.bd1c800f.chunk.js.LICENSE.txt",
+    "static/media/BeforeAfter.f14f1758.png": "/orakkle-landingpage/static/media/BeforeAfter.f14f1758.png",
+    "static/media/Get_it_on_GooglePlay.3e210594.png": "/orakkle-landingpage/static/media/Get_it_on_GooglePlay.3e210594.png",
+    "static/media/Phone_screens2.01647c02.png": "/orakkle-landingpage/static/media/Phone_screens2.01647c02.png",
+    "static/media/Telegram_Snapshot.bc9b3fc0.png": "/orakkle-landingpage/static/media/Telegram_Snapshot.bc9b3fc0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf1a5708.js",
+    "static/js/2.bd1c800f.chunk.js",
+    "static/css/main.29d74412.chunk.css",
+    "static/js/main.bd0f3d04.chunk.js"
+  ]
+}
